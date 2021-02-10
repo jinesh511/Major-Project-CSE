@@ -1,3 +1,3 @@
 # Plant-Disease-Detection
 
-Final Year PRoject of B.Tech Computer Science and Engineering
+Final Year Project of B.Tech Computer Science and Engineering
